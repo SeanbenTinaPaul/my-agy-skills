@@ -1,0 +1,538 @@
+[
+  {
+    "name": "agentic",
+    "description": "Conversational AI-first interface with minimal controls, clear outcomes, and delegated task flows for agentic workflows.",
+    "visual_style": "modern, bold",
+    "fonts": "primary=Playfair Display, display=Playfair Display, mono=JetBrains Mono",
+    "colors": "primary=#FF5701, secondary=#F6F6F1, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "The agentic design style emphasizes conversational interactions, clear outcomes, and minimal controls, allowing users to delegate tasks to AI instead of manually managing complex workflows."
+  },
+  {
+    "name": "ant",
+    "description": "Structured, enterprise-focused design system emphasizing clarity, consistency, and efficiency for data-dense web applications.",
+    "visual_style": "data-dense, enterprise",
+    "fonts": "primary=Plus Jakarta Sans, display=Plus Jakarta Sans, mono=JetBrains Mono",
+    "colors": "primary=#1677ff, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Ant Design follows a structured, enterprise-focused design system that emphasizes clarity, consistency, and efficiency in complex web applications."
+  },
+  {
+    "name": "artistic",
+    "description": "High-contrast, expressive style with creative typography and bold color choices for visually striking interfaces.",
+    "visual_style": "high-contrast, artistic",
+    "fonts": "primary=Limelight, display=Limelight, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: high-contrast, artistic\n- Typography scale: 12/14/16/18/24/30/36 | Fonts: primary=Limelight, display=Limelight, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: primary..."
+  },
+  {
+    "name": "basic",
+    "description": "Print-inspired visual language for books, magazines, and reports with editorial grids and expressive typography.",
+    "visual_style": "modern, editorial",
+    "fonts": "primary=Nunito, display=Oswald, mono=JetBrains Mono",
+    "colors": "primary=#A855F7, secondary=#0A1829, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#0A1829",
+    "brand": "Basic design style defines the visual language of books, magazines, and reports, ranging from clean minimalism to ornate, expressive, or retro aesthetics"
+  },
+  {
+    "name": "bento",
+    "description": "Modular grid layout with card-like blocks, clear hierarchy, soft spacing, and subtle visual contrast for organized, scannable interfaces.",
+    "visual_style": "modern, clean",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#FAD4C0, secondary=#80A1C1, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFF5E6, text=#111827",
+    "brand": "The bento box style is an innovative design approach that uses a grid layout to present content in visually appealing blocks of varying sizes."
+  },
+  {
+    "name": "bold",
+    "description": "Strong visual presence with heavyweight typography, high-contrast colors, and commanding layouts.",
+    "visual_style": "bold",
+    "fonts": "primary=Archivo Black, display=Archivo Black, mono=JetBrains Mono",
+    "colors": "primary=#0077BC, secondary=#009866, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#111111, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: bold\n- Typography scale: desktop-first expressive scale | Fonts: primary=Archivo Black, display=Archivo Black, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, secondary | Tokens: primary=#0077BC, secondary=#0098..."
+  },
+  {
+    "name": "brutalism",
+    "description": "Raw, anti-design aesthetic inspired by concrete architecture with unadorned elements, jarring layouts, and functional minimalism.",
+    "visual_style": "bold",
+    "fonts": "primary=Darker Grotesque, display=Darker Grotesque, mono=JetBrains Mono",
+    "colors": "primary=#DD614C, secondary=#DAA144, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "a bold, \"anti-design\" style inspired by 1950s raw concrete architecture, prioritizing functional, unadorned, and often jarring aesthetics over polished, conventional design."
+  },
+  {
+    "name": "cafe",
+    "description": "Cozy cafe-inspired interface with warm tones, soft typography, and clean layouts for a relaxed browsing experience.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Poppins, display=Poppins, mono=JetBrains Mono",
+    "colors": "primary=#5D4432, secondary=#E9E3DD, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#F9F7F5, text=#3E2B1E",
+    "brand": "A cozy caf\u00e9-inspired interface that blends warm tones, soft typography, and clean layouts to create a relaxed browsing experience"
+  },
+  {
+    "name": "claude",
+    "description": "A research-journal aesthetic printed on warm stone \u2014 authoritative, editorial, almost achromatic. Pages live on warm ivory parchment (never pure white), with near-black slate as the dominant ink.",
+    "visual_style": "modern, minimal, clean",
+    "fonts": "primary=Anthropic Sans, display=Anthropic Sans, mono=JetBrains Mono",
+    "colors": "primary=#141413, secondary=#FAF9F6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A research-journal aesthetic printed on warm stone \u2014 authoritative, editorial, almost achromatic. Pages live on warm ivory parchment (never pure white), with near-black slate as the dominant ink. The chromatic budget is intentionally tiny: a single earthy clay accent held in reserve, deployed sparin..."
+  },
+  {
+    "name": "claymorphism",
+    "description": "Soft, rounded 3D-like shapes mimicking malleable clay with playful, puffy elements and colorful surfaces.",
+    "visual_style": "modern, high-contrast, playful",
+    "fonts": "primary=Montserrat, display=Poppins, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#FFFFFF, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#1C398E",
+    "brand": "a modern UI trend characterized by soft, rounded, 3D-like, \"puffy\" shapes that mimic malleable, colorful clay."
+  },
+  {
+    "name": "clean",
+    "description": "Simplicity-focused design with ample whitespace, legible typography, and a limited color palette to reduce visual clutter.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Roboto, display=Poppins, mono=Inconsolata",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Clean design style focuses on simplicity, minimalism, and high usability, using ample whitespace, legible typography, and limited color palettes to reduce visual clutter"
+  },
+  {
+    "name": "codex",
+    "description": "A radically minimal, blank-canvas interface built as a pure edge-to-edge surface, with almost no color and typography carrying the visual weight. Black serves as the only filled color, the only divider, and the sole surface tone cards.",
+    "visual_style": "modern, minimal, clean",
+    "fonts": "primary=Open Sans, display=Open Sans, mono=JetBrains Mono",
+    "colors": "primary=#000000, secondary=#ffffff, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A radically minimal, blank-canvas interface built as a pure edge-to-edge surface, with almost no color and typography carrying the visual weight. Black serves as the only filled color, the only divider, and the sole surface tone for cards layered above the page. All interactive elements use pill-sha..."
+  },
+  {
+    "name": "colorful",
+    "description": "Vibrant, high-contrast palettes and gradients for engaging, memorable, and modern user experiences.",
+    "visual_style": "high-contrast, playful, premium",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Colorful UI/UX design uses vibrant, high-contrast palettes and gradients to create engaging, memorable, and modern user experiences"
+  },
+  {
+    "name": "contemporary",
+    "description": "Current-era minimalist design with bento grids, dark mode support, and high-performance accessible layouts.",
+    "visual_style": "modern, minimal, bold, playful",
+    "fonts": "primary=Jost, display=Jost, mono=Overpass Mono",
+    "colors": "primary=#C800DF, secondary=#E60076, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Contemporary UI/UX design focuses on, minimalist, accessible, and high-performance, featuring Bento grids, dark mode, and, AI-powered personalization"
+  },
+  {
+    "name": "corporate",
+    "description": "Professional, brand-aligned design with structured grids, minimalist layouts, and consistent enterprise patterns.",
+    "visual_style": "enterprise, premium",
+    "fonts": "primary=Open Sans, display=Poppins, mono=IBM Plex Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Corporate UI/UX design focuses on professionalism, consistency, and brand alignment, typically featuring minimalist layouts, structured grids, and, in 2026, AI-driven personalization"
+  },
+  {
+    "name": "cosmic",
+    "description": "Futuristic sci-fi aesthetic with dark themes, vibrant neon accents, and immersive spatial elements.",
+    "visual_style": "playful, premium",
+    "fonts": "primary=Audiowide, display=Audiowide, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Cosmic UI/UX design is a futuristic, sci-fi-inspired style characterized by dark themes, vibrant neon accents, and immersive, spatial elements"
+  },
+  {
+    "name": "creative",
+    "description": "Playful, character-driven design with expressive typography and bold graphics for landing pages and creative projects.",
+    "visual_style": "playful",
+    "fonts": "primary=Bangers, display=Bangers, mono=IBM Plex Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "cerative style for landing  pages"
+  },
+  {
+    "name": "dithered",
+    "description": "Dot-pattern rendering technique that simulates shades with a limited palette for nostalgic, retro, high-contrast visuals.",
+    "visual_style": "modern, minimal",
+    "fonts": "primary=Open Sans, display=Space Grotesk, mono=IBM Plex Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Dithered Is a technique that uses patterns of dots to simulate shades and colors with a limited palette within modern digital interfaces to create nostalgic, retro, or high-contrast, artistic visual styles"
+  },
+  {
+    "name": "doodle",
+    "description": "Hand-drawn, sketch-like style with doodles, handwritten fonts, and imperfect lines for a playful, informal feel.",
+    "visual_style": "playful",
+    "fonts": "primary=Delius Swash Caps, display=Delius Swash Caps, mono=JetBrains Mono",
+    "colors": "primary=#49B6E5, secondary=#263D5B, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "a creative, playful, and informal style that utilizes doodles, sketches, handwritten fonts, and imperfect lines to foster emotional connection and a raw, artistic feel"
+  },
+  {
+    "name": "dramatic",
+    "description": "High-contrast, theatrical design with bold layouts, immersive visuals, and unconventional compositions that command attention.",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Outfit, display=Outfit, mono=JetBrains Mono",
+    "colors": "primary=#8B5CF6, secondary=#F43F5E, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#09090B, text=#FAFAFA",
+    "brand": "Dramatic design style is a trend characterized by high-contrast visuals, bold, unconventional layouts, and immersive, theatrical experiences designed to grab user attention."
+  },
+  {
+    "name": "editorial",
+    "description": "Magazine-inspired editorial layout with refined serif typography, structured grids, and elegant reading experiences.",
+    "visual_style": "modern, editorial",
+    "fonts": "primary=Gelasio, display=Gelasio, mono=Ubuntu Mono",
+    "colors": "primary=#111111, secondary=#f1f1f1, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: modern, editorial\n- Typography scale: 14/16/18/24/32/40 | Fonts: primary=Gelasio, display=Gelasio, mono=Ubuntu Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, secondary, neutral, success | Tokens: primary=#111111, secondary=#f..."
+  },
+  {
+    "name": "enterprise",
+    "description": "Dark-themed cloud-platform aesthetic with modular grids, glass-like panels, and strong data hierarchy for productivity dashboards.",
+    "visual_style": "modern, clean, cloud-platform aesthetic (Heroku/Vercel/GitHub inspired), dark theme, subtle gradients, soft shadows, glass-like panels, rounded components",
+    "fonts": "primary=IBM Plex Sans, display=IBM Plex Sans, mono=IBM Plex Sans",
+    "colors": "primary=#0C5CAB, secondary=#0a4a8a, success=#10b981, warning=#f59e0b, danger=#ef4444, surface=#09090b, text=#fafafa",
+    "brand": "Enterprise design emphasizes grids, modular components, and strong visual hierarchy to present complex data in a clear and accessible way. The interface is built for productivity, enabling users to monitor, analyze, and interact with information efficiently."
+  },
+  {
+    "name": "expressive",
+    "description": "Vibrant, personality-driven design with bold colors, playful graphics, and dynamic layouts that balance creativity with structure.",
+    "visual_style": "modern, playful",
+    "fonts": "primary=IBM Plex Mono, display=IBM Plex Mono, mono=IBM Plex Mono",
+    "colors": "primary=#db2777, secondary=#2563eb, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A vibrant and visually engaging design style that uses bold colors, playful graphics, and dynamic layouts to create a strong personality. It emphasizes creativity and energy while maintaining clear structure and modern UI patterns."
+  },
+  {
+    "name": "fantasy",
+    "description": "Game-inspired fantasy aesthetic with bold, premium visuals, rich color palettes, and immersive thematic elements.",
+    "visual_style": "bold, premium",
+    "fonts": "primary=New Rocker, display=New Rocker, mono=IBM Plex Mono",
+    "colors": "primary=#0250CC, secondary=#FDC800, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "the best game in the world"
+  },
+  {
+    "name": "fiction",
+    "description": "A playful, energetic, cartoonesque interface inspired by friendly children's-book illustrations \u2014 warm cream backgrounds, big bold custom display typography, saturated brand color blocks, thick black outlines, generously rounded shapes",
+    "visual_style": "playful",
+    "fonts": "primary=Cossette Texte, display=Cossette Texte, mono=JetBrains Mono",
+    "colors": "primary=#222222, secondary=#FFE9CE, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A playful, energetic, cartoonesque interface inspired by friendly children's-book illustrations \u2014 warm cream backgrounds, big bold custom display typography, saturated brand color blocks, thick black outlines, generously rounded shapes, flat surfaces with almost no shadows, and decorative hand-drawn..."
+  },
+  {
+    "name": "flat",
+    "description": "Two-dimensional minimalist style with vibrant colors, clean typography, and no 3D effects for fast, user-friendly interfaces.",
+    "visual_style": "minimal, enterprise",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#F2673C, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "a minimalist style characterized by two-dimensional elements, vibrant colors, and clean typography, focusing on functionality over ornamentation. By removing 3D effects like shadows, gradients, and textures, this style improves loading speeds and responsiveness, offering a clean, user-friendly inter..."
+  },
+  {
+    "name": "friendly",
+    "description": "Approachable, intuitive design with rounded elements, ample whitespace, and soft pastel color palettes.",
+    "visual_style": "bold, playful, premium",
+    "fonts": "primary=Noto Serif Display, display=Noto Serif Display, mono=Space Mono",
+    "colors": "primary=#F2D9DC, secondary=#D9F2D8, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Friendly UI/UX design focuses on creating approachable, intuitive, and engaging experiences through, rounded elements, ample whitespace, and, soft, pastel, color, palettes"
+  },
+  {
+    "name": "futuristic",
+    "description": "Forward-looking design with tech-inspired typography, modern layouts, and a sleek, innovation-driven aesthetic.",
+    "visual_style": "modern",
+    "fonts": "primary=Roboto, display=Audiowide, mono=Anonymous Pro",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: modern\n- Typography scale: desktop-first expressive scale | Fonts: primary=Roboto, display=Audiowide, mono=Anonymous Pro | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: primary=#3B82F6, s..."
+  },
+  {
+    "name": "geometric",
+    "description": "Geometric, structured design with clean typography, neutral colors, precise shapes, and intuitive layouts that stay out of the way.",
+    "visual_style": "geometric, structured, clean",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: geometric, structured, clean\n- Typography scale: 12/14/16/20/24/32 | Fonts: primary=Inter, display=Inter, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: primary=#3B82..."
+  },
+  {
+    "name": "glassmorphism",
+    "description": "Frosted glass effect with translucent layers, subtle blur, and luminous borders for depth and modern elegance.",
+    "visual_style": "clean, high-contrast, bold, enterprise, liquidglass effect, glassmorphism",
+    "fonts": "primary=Plus Jakarta Sans, display=Plus Jakarta Sans, mono=JetBrains Mono",
+    "colors": "primary=#1856FF, secondary=#3A344E, success=#07CA6B, warning=#E89558, danger=#EA2143, surface=#FFFFFF, text=#141414",
+    "brand": "provide fast, reliable communication for individuals, teams, and communities while maintaining a clean interface and high performance across desktop environments."
+  },
+  {
+    "name": "gradient",
+    "description": "Smooth color transitions and gradient-rich surfaces for modern, playful interfaces with visual depth.",
+    "visual_style": "modern, playful",
+    "fonts": "primary=Montserrat, display=Space Grotesk, mono=JetBrains Mono",
+    "colors": "primary=#990FFA, secondary=#E60076, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Gradient design style"
+  },
+  {
+    "name": "immersive",
+    "description": "An immersive, interactive, exhibit-style interface that blends storytelling, animation, and gamified elements to create a playful, experience-driven journey. The entire app sits on a single continuous brand-colored canvas (deep green)",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Oswald, sans-serif, display=Oswald, sans-serif, mono=JetBrains Mono",
+    "colors": "primary=#00592B, secondary=#0023D1, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "An immersive, interactive, exhibit-style interface that blends storytelling, animation, and gamified elements to create a playful, experience-driven journey. The entire app sits on a single continuous brand-colored canvas (deep green) \u2014 there is no alternation between section backgrounds. Crisp whit..."
+  },
+  {
+    "name": "impeccable",
+    "description": "A modern, graphic, editorial-poster aesthetic \u2014 warm and confident \u2014 built on alternating cream and burnt orange sections, an amber brand color.",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Chakra Petch, display=Chakra Petch, mono=JetBrains Mono",
+    "colors": "primary=#CC8800, secondary=#C55221, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A modern, graphic, editorial-poster aesthetic \u2014 warm and confident \u2014 built on alternating cream and burnt orange sections, an amber brand color."
+  },
+  {
+    "name": "levels",
+    "description": "Conversion-focused design that removes friction and guides users toward action through clarity, trust, and speed.",
+    "visual_style": "modern, clean",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#27272A, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Levels design\u00a0focuses on removing friction, building trust, and guiding users toward a specific action through clarity, psychology, and speed"
+  },
+  {
+    "name": "lingo",
+    "description": "Playful, minimal design with bright colors, rounded shapes, tactile 3D borders, and friendly illustrations for approachable interfaces.",
+    "visual_style": "bold, playful",
+    "fonts": "primary=Nunito, display=Nunito, mono=JetBrains Mono",
+    "colors": "primary=#58cc02, secondary=#ce82ff, success=#58cc02, warning=#ffc800, danger=#ff4b4b, surface=#FFFFFF, text=#3c3c3c",
+    "brand": "Lingo is a duolingo inspired design style that combines minimal layouts with bright colors, rounded shapes, and friendly illustrations to create an engaging and approachable interface. It focuses on clarity and simplicity while adding personality that makes the product feel welcoming and interactive..."
+  },
+  {
+    "name": "material",
+    "description": "Google's Material Design with layered surfaces, dynamic theming, built-in motion, and responsive cross-platform patterns.",
+    "visual_style": "modern, minimal, clean",
+    "fonts": "primary=Inter, display=Roboto, mono=Fira Code",
+    "colors": "primary=#6442D6, secondary=#C8B3FD, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "UX (user experience) designers use it to create visually consistent, intuitive, and responsive digital experiences. With built-in motion, layering, and dynamic theming, Material Design helps teams deliver accessible, high-quality UIs (user interfaces) across devices and platforms."
+  },
+  {
+    "name": "matrix",
+    "description": "A cyber-slick, dark-only Matrix-inspired interface defined by minimalist fashion, high-tech digital elements",
+    "visual_style": "high-contrast",
+    "fonts": "primary=Space Mono, display=Space Mono, mono=Space Mono",
+    "colors": "primary=#2DB58A, secondary=#0B0C14, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A cyber-slick, dark-only Matrix-inspired interface defined by minimalist fashion, high-tech digital elements, monospaced typography, and a single deep monochromatic surface. The aesthetic borrows from order-book exchanges and terminal interfaces: ultra-dense layouts, mono numerics, hairline borders,..."
+  },
+  {
+    "name": "minimal",
+    "description": "Stripped-back design emphasizing whitespace, clean typography, and restrained color for maximum clarity and focus.",
+    "visual_style": "minimal, clean, bold",
+    "fonts": "primary=Open Sans, display=Inter, mono=Inconsolata",
+    "colors": "primary=#0C0C09, secondary=#312C85, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#F4F4F1, text=#0C0C09",
+    "brand": "## Style Foundations\n- Visual style: minimal, clean, bold\n- Typography scale: desktop-first expressive scale | Fonts: primary=Open Sans, display=Inter, mono=Inconsolata | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: primary..."
+  },
+  {
+    "name": "modern",
+    "description": "Contemporary editorial style with serif typography, minimal palettes, and clean layouts for polished digital products.",
+    "visual_style": "modern, minimal, clean, editorial",
+    "fonts": "primary=IBM Plex Serif, display=IBM Plex Serif, mono=JetBrains Mono",
+    "colors": "primary=#553F83, secondary=#111111, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#553F83, text=#ffffff",
+    "brand": "Ship software peacefully"
+  },
+  {
+    "name": "mono",
+    "description": "Monospace-driven, matrix-inspired design with high-contrast elements, compact density, and a hacker-chic aesthetic.",
+    "visual_style": "minimal, clean, high-contrast, playful, matrix",
+    "fonts": "primary=Space Mono, display=Space Mono, mono=JetBrains Mono",
+    "colors": "primary=#37F712, secondary=#00A6F4, success=#00A63D, warning=#FE9900, danger=#FF2157, surface=#E7E5E4, text=#78716B",
+    "brand": "Join the private club where people are building, monetizing, and marketing products with AI."
+  },
+  {
+    "name": "neobrutalism",
+    "description": "Modern take on brutalism with bold borders, vivid accent colors, and raw, high-contrast layouts on warm surfaces.",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#FDC800, secondary=#432DD7, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FBFBF9, text=#1C293C",
+    "brand": "## Style Foundations\n- Visual style: modern, clean, high-contrast\n- Typography scale: 13/15/17/21/27/35 | Fonts: primary=Inter, display=Inter, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: primary=#FDC8..."
+  },
+  {
+    "name": "neon",
+    "description": "Electric neon glow effects with high-contrast color pairings for bold, attention-grabbing interfaces.",
+    "visual_style": "high-contrast",
+    "fonts": "primary=Roboto, display=STIX Two Text, mono=Source Code Pro",
+    "colors": "primary=#BBF351, secondary=#00BCFF, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Neon high contrast design"
+  },
+  {
+    "name": "neumorphism",
+    "description": "Soft, extruded UI elements with inner and outer shadows on monochromatic surfaces for a tactile, embedded look.",
+    "visual_style": "minimal, clean, high-contrast, playful, matrix",
+    "fonts": "primary=Space Mono, display=Space Mono, mono=JetBrains Mono",
+    "colors": "primary=#006666, secondary=#F1F2F5, success=#00A63D, warning=#FE9900, danger=#FF2157, surface=#E7E5E4, text=#1E2938",
+    "brand": "Join the private club where people are building, monetizing, and marketing products with AI."
+  },
+  {
+    "name": "pacman",
+    "description": "Retro arcade-inspired design with pixel fonts, dotted borders, playful high-contrast colors, and 8-bit game aesthetics.",
+    "visual_style": "high-contrast, playful, dotted borders",
+    "fonts": "primary=Press Start 2P, display=Press Start 2P, mono=Space Mono",
+    "colors": "primary=#2A3FE5, secondary=#F4B9B0, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#000000, text=#111827",
+    "brand": "Dive into the legendary arcade adventure of Pac\u2011Man, where quick reflexes and smart moves help you clear mazes and escape the ghosts."
+  },
+  {
+    "name": "paper",
+    "description": "Paper-textured, print-inspired design with minimal colors, clean serif/sans typography, and tactile surface qualities.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Roboto, display=Montserrat, mono=PT Mono",
+    "colors": "primary=#111111, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Paper design style"
+  },
+  {
+    "name": "perspective",
+    "description": "Spatial depth design with isometric views, vanishing points, and layered elements that guide attention through 3D-like realism.",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Poppins, display=Oswald, mono=JetBrains Mono",
+    "colors": "primary=#00BD7D, secondary=#00BD7D, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "This style moves beyond flat design by employing techniques like isometric views, vanishing points, and layered elements to guide the user's attention and create a sense of realism or \"spatial\" depth."
+  },
+  {
+    "name": "power",
+    "description": "High-end dark aesthetic with bold headings, monochromatic palette, and premium feel for premium brand experiences.",
+    "visual_style": "modern, bold, big headings",
+    "fonts": "primary=Oswald, display=Oswald, mono=JetBrains Mono",
+    "colors": "primary=#FAFAFA, secondary=#FAFAFA, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#000000, text=#ffffff",
+    "brand": "## Style Foundations\n- Visual style: modern, bold, big headings\n- Typography scale: desktop-first expressive scale | Fonts: primary=Oswald, display=Oswald, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary | Tokens: primary=#FAFAFA, secondary=#FAFAFA,..."
+  },
+  {
+    "name": "premium",
+    "description": "Apple-inspired premium aesthetic with precise spacing, modern typography, and a refined, polished visual language.",
+    "visual_style": "modern",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Apple design style"
+  },
+  {
+    "name": "professional",
+    "description": "Polished, business-ready design with modern typography, structured layouts, and a trustworthy visual identity.",
+    "visual_style": "modern",
+    "fonts": "primary=Poppins, display=Poppins, mono=IBM Plex Mono",
+    "colors": "primary=#FECE14, secondary=#000000, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Electronics shop"
+  },
+  {
+    "name": "pulse",
+    "description": "Dynamic, vibrant style with thick borders, geometric shapes, high-contrast colors, and expressive typography conveying motion and vitality.",
+    "visual_style": "bold, geometric, vibrant, thick-bordered",
+    "fonts": "primary=Limelight, display=Limelight, mono=JetBrains Mono",
+    "colors": "primary=#EA580B, secondary=#F59E0B, background=#FFEDD5, surface=#FDBA74, text=#EA580C",
+    "brand": "Pulse design style embodies vibrant, dynamic, and bold aesthetics. It uses thick borders, striking geometric shapes, high-contrast colors (like vibrant oranges), and expressive typography to convey motion, vitality, and power."
+  },
+  {
+    "name": "refined",
+    "description": "Carefully curated, modern minimal style with elegant serif typography and understated, sophisticated palettes.",
+    "visual_style": "modern, minimal",
+    "fonts": "primary=Playfair Display, display=Playfair Display, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Refined design style"
+  },
+  {
+    "name": "retro",
+    "description": "Throwback design with vintage-inspired typography, high-contrast retro palettes, and nostalgic visual elements.",
+    "visual_style": "high-contrast, retro",
+    "fonts": "primary=Macondo, display=Macondo, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: high-contrast, retro\n- Typography scale: desktop-first expressive scale | Fonts: primary=Macondo, display=Macondo, mono=JetBrains Mono | weights=100, 200, 300, 400, 500, 600, 700, 800, 900\n- Color palette: primary, neutral, success, warning, danger | Tokens: prim..."
+  },
+  {
+    "name": "riso",
+    "description": "A playful, joyful, two-color risograph print aesthetic built on a single warm off-white paper surface running through every section",
+    "visual_style": "clean, high-contrast",
+    "fonts": "primary=Space Grotesk, display=Space Grotesk, mono=Overpass Mono",
+    "colors": "primary=#F237A1, secondary=#2C40A7, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A playful, joyful, two-color risograph print aesthetic \u2014 built on a single warm off-white paper surface running through every section, a fluorescent brand pink reserved as the sole interaction driver, a deep federal-blue secondary carrying every heading and the signature offset print-shadow"
+  },
+  {
+    "name": "roku",
+    "description": "App dashboard with purple-themed aesthetic, top-bar navigation, card-based layouts, and developer-first workflows.",
+    "visual_style": "modern, clean, high-contrast, glass-like panels, soft shadows, rounded components",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#9333ea, secondary=#a855f7, success=#10b981, warning=#f59e0b, danger=#ef4444, surface=#FFFFFF, text=#09090b",
+    "brand": "A modern, Vercel/GitHub-inspired application dashboard designed for clarity, speed, and developer-first workflows. The interface focuses on simplicity and visual hierarchy, allowing teams to monitor, deploy, and manage applications effortlessly from a single control center. Features a top-bar only n..."
+  },
+  {
+    "name": "sega",
+    "description": "A playful, arcade-inspired interface for games \u2014 built on the VT323 pixel typeface, hard-edged 0px corners, chunky pill buttons that physically press into solid offset blocks",
+    "visual_style": "modern, playful",
+    "fonts": "primary=VT323, display=VT323, mono=JetBrains Mono",
+    "colors": "primary=#4502FF, secondary=#FFDA14, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A playful, arcade-inspired interface for games \u2014 built on the VT323 pixel typeface, hard-edged 0px corners, chunky pill buttons that physically press into solid offset blocks, and cards wrapped in rainbow-ringed brand shadows that read like cabinet trim."
+  },
+  {
+    "name": "shadcn",
+    "description": "Shadcn/ui-inspired design with minimal, clean components, monochrome palette, and utility-first patterns.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Geist, display=Geist, mono=Fira Code",
+    "colors": "primary=#000000, secondary=#111111, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "shadcn style design"
+  },
+  {
+    "name": "sketch",
+    "description": "A friendly, hand-drawn sketch interface inspired by pencil illustrations on warm cream paper. Soft teal brand accents, hand-written display headings, rounded pill controls.",
+    "visual_style": "modern, clean, high-contrast",
+    "fonts": "primary=Delicious Handrawn, display=Delicious Handrawn, mono=JetBrains Mono",
+    "colors": "primary=#1DAD97, secondary=#F4EDE0, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A friendly, hand-drawn sketch interface inspired by pencil illustrations on warm cream paper. Soft teal brand accents, hand-written display headings, rounded pill controls, dashed card outlines, and chunky offset \"pencil-drawn\" shadows give every surface a tactile, illustrated feel."
+  },
+  {
+    "name": "skeumorphism",
+    "description": "Real-world mimicry with textured surfaces, 3D effects, and familiar physical metaphors for intuitive digital interfaces.",
+    "visual_style": "playful",
+    "fonts": "primary=Roboto, display=Germania One, mono=JetBrains Mono",
+    "colors": "primary=#FA3C00, secondary=#F08321, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "a UI/UX design approach that mimics real-world textures, materials, and 3D functionality to make digital interfaces intuitive, familiar, and relatable"
+  },
+  {
+    "name": "sleek",
+    "description": "Modern minimalist aesthetic with clean lines, intentional color palette, subtle interactions, and consistent spacing.",
+    "visual_style": "modern, minimal, clean",
+    "fonts": "primary=Inter, display=Inter, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Sleek UI/UX design emphasizes a modern, minimalist aesthetic (\"less is more\") focused on clean lines, high functionality, and reduced cognitive load. Key elements include a limited, intentional color palette (e.g., the 60-30-10 rule), subtle, non-distracting interactions, and consistent spacing."
+  },
+  {
+    "name": "spacious",
+    "description": "Generous whitespace, consistent padding, and grid-based layouts for clean, readable, and breathing interfaces.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Open Sans, display=Montserrat, mono=IBM Plex Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "Spacious UI/UX design uses generous white space, consistent padding, and a 4- or 8-point grid system to create clean, readable, and intuitive interfaces"
+  },
+  {
+    "name": "square",
+    "description": "Graceful, refined aesthetic with delicate typography, minimal palettes, and polished layouts that exude sophistication.",
+    "visual_style": "minimal, clean",
+    "fonts": "primary=Google Sans, display=Google Sans, mono=Anonymous Pro",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "## Style Foundations\n- Visual style: minimal, clean\n- Typography scale: 14/16/18/24/32/40 | Fonts: primary=Google Sans, display=Google Sans, mono=Anonymous Pro | weights=100, 200, 300, 400, 500, 600\n- Color palette: primary, secondary, neutral, success, warning, danger | Tokens: primary=#3B82F6, sec..."
+  },
+  {
+    "name": "stitch",
+    "description": "Clean, high-contrast enterprise design for data-driven workflows with intuitive drag-and-drop patterns and structured layouts.",
+    "visual_style": "clean, high-contrast, enterprise",
+    "fonts": "primary=Ubuntu, display=Oswald, mono=Ubuntu Mono",
+    "colors": "primary=#072C2C, secondary=#FF5F03, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#EDEADE, text=#111827",
+    "brand": "Everything you need \u2013 data, apps, and AI in an intuitive drag and drop interface to automate your workflows."
+  },
+  {
+    "name": "storytelling",
+    "description": "Narrative-driven design using visuals, copy, and interaction to guide users through engaging, emotionally resonant journeys.",
+    "visual_style": "playful",
+    "fonts": "primary=Inter, display=Abril Fatface, mono=JetBrains Mono",
+    "colors": "primary=#3B82F6, secondary=#8B5CF6, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "a narrative techniques to create engaging, intuitive, and emotionally resonant digital experiences. It guides users through a cohesive journey using visuals, copy, and interaction, transforming functional interfaces into memorable experiences."
+  },
+  {
+    "name": "terracotta",
+    "description": "A sun-baked, clay-toned editorial interface built on warm cream surfaces, ink-brown headlines set in a display serif, and a single terracotta accent.",
+    "visual_style": "modern, clean, high-contrast, playful",
+    "fonts": "primary=DM Serif Display, display=DM Serif Display, mono=JetBrains Mono",
+    "colors": "primary=#C56A3C, secondary=#F3E9D8, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#111827",
+    "brand": "A sun-baked, clay-toned editorial interface built on warm cream surfaces, ink-brown headlines set in a display serif, and a single terracotta accent. Earthy, human, and content-first \u2014 tuned for long-form reading, blogs, storytelling, and editorial layouts where readability and visual rhythm matter."
+  },
+  {
+    "name": "tetris",
+    "description": "Classic block-game inspired design with playful colors, bold display fonts, and compact, high-energy layouts.",
+    "visual_style": "high-contrast, playful, premium",
+    "fonts": "primary=Bangers, display=Bangers, mono=JetBrains Mono",
+    "colors": "primary=#1C202B, secondary=#7107E7, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#DFE7FF, text=#1C398E",
+    "brand": "the most iconic game of history"
+  },
+  {
+    "name": "vibrant",
+    "description": "Lively, colorful design with bold playful typography, warm accents, and dynamic visual energy.",
+    "visual_style": "modern, clean, bold, playful",
+    "fonts": "primary=Noto Sans, display=Fascinate, mono=Fira Code",
+    "colors": "primary=#7C61D4, secondary=#EAAE87, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#FFFFFF, text=#2F281D",
+    "brand": "Vibrant style"
+  },
+  {
+    "name": "vintage",
+    "description": "1950s-1990s nostalgia with skeuomorphic touches, grainy textures, retro color palettes, and pixel-style typography.",
+    "visual_style": "clean, vintage, retro",
+    "fonts": "primary=Silkscreen, display=Silkscreen, mono=JetBrains Mono",
+    "colors": "primary=#008080, secondary=#C0C0C0, success=#16A34A, warning=#D97706, danger=#DC2626, surface=#C0C0C0, text=#000000",
+    "brand": "Vintage design style revives aesthetics from the 1950s\u20131990s, blending nostalgia with modern functionality through skeuomorphic elements, grainy textures, and retro color palettes"
+  }
+]
