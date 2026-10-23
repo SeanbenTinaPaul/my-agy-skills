@@ -24,19 +24,45 @@ A curated collection of custom skills for Google Antigravity (AGY) agents and CL
 
 ---
 
+## Included Rules
+
+| Rule | Description |
+| :--- | :--- |
+| **karpathy-guidelines** | Disciplined software engineering guidelines biasing toward simplicity, surgical changes, and rigorous verification. |
+
+---
+
 ## Installation & Usage
 
+### Installing Skills
 To use these skills in your Antigravity environment:
 
-### Option 1: Global Installation
+#### Option 1: Global Installation
 Copy desired skills into your global Antigravity config directory:
 ```powershell
 Copy-Item -Path "skills\*" -Destination "$HOME\.gemini\config\skills\" -Recurse -Force
 ```
 
-### Option 2: Project-Level Installation
+#### Option 2: Project-Level Installation
 Copy or link skills into your repository's `.agents/skills` or `.gemini/skills`:
 ```powershell
 New-Item -ItemType Directory -Path ".agents\skills" -Force
 Copy-Item -Path "skills\<skill-name>" -Destination ".agents\skills\" -Recurse -Force
+```
+
+### Installing Rules
+To install custom rules:
+
+#### Option 1: Global Installation
+Copy rules into your global Antigravity rules directory:
+```powershell
+New-Item -ItemType Directory -Path "$HOME\.gemini\config\rules" -Force
+Copy-Item -Path "rules\*" -Destination "$HOME\.gemini\config\rules\" -Force
+```
+
+#### Option 2: Project-Level Installation
+Copy rules into your repository's `.agents/rules`:
+```powershell
+New-Item -ItemType Directory -Path ".agents\rules" -Force
+Copy-Item -Path "rules\*" -Destination ".agents\rules\" -Force
 ```
